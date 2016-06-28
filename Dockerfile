@@ -1,4 +1,4 @@
-FROM tomcat:8
+FROM tomcat:8.5
 MAINTAINER David A. Lareo <dalareo@gmail.com>
 # See https://github.com/opensourceBIM/BIMserver/wiki/Install-on-Ubuntu
 
