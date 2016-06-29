@@ -19,7 +19,7 @@ You can easily forward this to port 80 using [iptables][iptables] with the comma
 
 [bimserver]: http://bimserver.org/
 [docker]: https://www.docker.com/
-[dockerhub]: https://registry.hub.docker.com/u/urbanetic/bimserver/
+[dockerhub]: hhttps://hub.docker.com/r/dalareo/bimserver/
 [docker-install]: https://docs.docker.com/installation/
 [iptables]: https://help.ubuntu.com/community/IptablesHowTo
 [tomcat]: https://tomcat.apache.org/
