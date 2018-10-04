@@ -1,5 +1,5 @@
 FROM tomcat:8
-MAINTAINER David A. Lareo <dalareo@gmail.com>
+MAINTAINER Håkon Åmdal <hakon@aamdal.com>
 # See https://github.com/opensourceBIM/BIMserver/wiki/Install-on-Ubuntu
 
 ENV TOMCAT_HOME /usr/local/tomcat
